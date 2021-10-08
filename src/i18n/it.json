@@ -1,0 +1,9 @@
+{
+  "example": {
+    "title": "Titolo tradotto"
+  },
+  "validations": {},
+  "fields": {
+    "firstName": "Nome"
+  }
+}
